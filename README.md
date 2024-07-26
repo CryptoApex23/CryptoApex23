@@ -5,7 +5,8 @@
 
 ⚡ Donations will be appreciated ❤️:
 BTC:bc1qxwlpy6fx33e968uqhw7pr030kvyr3pel0ptxt3
-  ETH:0x8a530A5eC57d7D7944E23Ffc5D85dA09c52C8eda
+
+ETH:0x8a530A5eC57d7D7944E23Ffc5D85dA09c52C8eda
   
 SOL:FCfyeS5LwsjjgGiJKAikYFwPoweBcVLYASjRstEhHaAs
 
