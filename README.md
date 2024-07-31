@@ -34,6 +34,7 @@ Feel free to reach out to me through the following platforms:
 ---
 
 Thanks for visiting my profile! 😄
+![image](https://github.com/user-attachments/assets/a040b4d6-02c7-4a4a-9836-5554733bdf77)
 
 
 ## Donations will be appreciated ❤️:
