@@ -34,7 +34,7 @@ Feel free to reach out to me through the following platforms:
 ---
 <p align="center">
 Thanks for visiting my profile! 😄
-![image](https://github.com/sammorozov/sammorozov/raw/main/assets/github-snake.svg)
+ <img src=https://github.com/sammorozov/sammorozov/raw/main/assets/github-snake.svg) />
 </p>
 
 ## Donations will be appreciated ❤️:
