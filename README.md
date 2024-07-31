@@ -5,13 +5,11 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in Python,
 ## 🚀 About Me
 
 - **Languages & Tools**:
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  - ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-  - ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-  - ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 
 - **What I do**:
   - Build and maintain Python crypto-related repositories
