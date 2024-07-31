@@ -1,4 +1,4 @@
-# Hi there, I'm Val 👋
+![image](https://github.com/user-attachments/assets/fc0b5a4c-a71e-435b-8375-ea9ad8385129)# Hi there, I'm Val 👋
 
 Welcome to my GitHub profile! I'm a passionate developer specializing in Python, ReactJS, and Web3 development. I love building decentralized applications and exploring the cutting-edge world of blockchain technology.
 
@@ -34,7 +34,7 @@ Feel free to reach out to me through the following platforms:
 ---
 
 Thanks for visiting my profile! 😄
-![image](https://github.com/user-attachments/assets/a040b4d6-02c7-4a4a-9836-5554733bdf77)
+![image](https://github.com/sammorozov/sammorozov/raw/main/assets/github-snake.svg)
 
 
 ## Donations will be appreciated ❤️:
