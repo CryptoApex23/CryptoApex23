@@ -24,12 +24,13 @@ Feel free to reach out to me through the following platforms:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CryptoApex23/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cryptobotter0@gmail.com)
 
+<p align="center">
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CryptoApex23&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoApex23&layout=compact&theme=radical)
-
+</p>
 ---
 <p align="center">
 Thanks for visiting my profile! 😄
