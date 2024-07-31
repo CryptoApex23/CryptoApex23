@@ -20,17 +20,17 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in Python,
 ## 📫 How to Reach Me
 
 Feel free to reach out to me through the following platforms:
-<p align="center">
+<p align="center" style="text-decoration: none;">
   <a href="https://twitter.com/CryptoApex23/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
-<a href="mailto:cryptobotter0@gmail.com" target="_blank">
+<a href="mailto:cryptobotter0@gmail.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://discord.com/invite/YourDiscordInviteLink" target="_blank">
+<a href="https://discord.com/invite/YourDiscordInviteLink" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
-<a href="https://t.me/apexcrypto_hub" target="_blank">
+<a href="https://t.me/apexcrypto_hub" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 </p>
