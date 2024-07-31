@@ -27,8 +27,7 @@ Feel free to reach out to me through the following platforms:
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=CryptoApex23&show_icons=true&theme=radical" />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoApex23&layout=compact&theme=radical)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoApex23&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
