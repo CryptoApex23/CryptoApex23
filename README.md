@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in Python,
 ## 📫 How to Reach Me
 
 Feel free to reach out to me through the following platforms:
-<p align="center" style="text-decoration: none;">
+<p align="center" style="display: flex; gap: 10px;">
   <a href="https://twitter.com/CryptoApex23/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
