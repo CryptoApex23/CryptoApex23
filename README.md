@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in Python,
 ## 🚀 About Me
 
 - **Languages & Tools**:
+  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
   ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
