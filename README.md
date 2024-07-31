@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in Python,
 
 - **What I do**:
   - Build and maintain Python crypto-related repositories
-  - Develop web applications using ReactJS
+  - Develop web applications using Flutter / ReactJS
   - Work on decentralized applications and smart contracts
   - Contribute to the Web3 ecosystem
 
