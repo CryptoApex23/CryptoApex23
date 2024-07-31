@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/fc0b5a4c-a71e-435b-8375-ea9ad8385129)# Hi there, I'm Val 👋
 
 Welcome to my GitHub profile! I'm a passionate developer specializing in Python, ReactJS, and Web3 development. I love building decentralized applications and exploring the cutting-edge world of blockchain technology.
 
